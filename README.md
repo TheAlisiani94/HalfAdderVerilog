@@ -5,8 +5,8 @@ A simple Verilog implementation of a Half Adder circuit with a testbench for sim
 This repository contains a Verilog module for a Half Adder, which takes two 1-bit inputs (`a` and `b`) and produces a sum (`s`) and carry (`c`) output. The testbench (`testbench.v`) verifies the functionality by testing all input combinations.
 
 ## Files
-- `design.v`: The Half Adder module.
-- `testbench.v`: Testbench to simulate the Half Adder.
+- `design.v`: The Dataflow Half Adder module.
+- `testbench.v`: Dataflow Testbench to simulate the Half Adder.
 - `design_HA_bh.v`: The Behavioral Half Adder module.
 - `testbench_HA_bh.v`: Behavioral Testbench to simulate the Half Adder.
 
