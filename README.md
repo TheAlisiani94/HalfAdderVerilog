@@ -7,6 +7,8 @@ This repository contains a Verilog module for a Half Adder, which takes two 1-bi
 ## Files
 - `design.v`: The Half Adder module.
 - `testbench.v`: Testbench to simulate the Half Adder.
+- `design_HA_bh.v`: The Behavioral Half Adder module.
+- `testbench_HA_bh.v`: Behavioral Testbench to simulate the Half Adder.
 
 ## Simulation
 The code can be simulated on [EDA Playground](https://www.edaplayground.com). Select Icarus Verilog as the simulator and run the testbench to see the results.
